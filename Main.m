@@ -6,8 +6,8 @@ clear
 
 % -------------------------------------- Outside The Loop -------------------------
 %% User File Loc
-%UserFileLoc='/Users/keanu/Dropbox (AIenergy)/ElectricVehicles/?��?��?��?��?��?��?��?�� ?��?��?��?�� ???��?��?��?��/Code Real/Data';
-%UserFileLoc='/Users/keanu/Dropbox (AIenergy)/ElectricVehicles/?��?��?��?��?��?��?��?�� ?��?��?��?�� ???��?��?��?��/Code Real/Data';
+%UserFileLoc='/Users/keanu/Dropbox (AIenergy)/ElectricVehicles/?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½ ?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½ ???ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½/Code Real/Data';
+%UserFileLoc='/Users/keanu/Dropbox (AIenergy)/ElectricVehicles/?„‹?…²?„‹?…§?†«?„‰?…¥?†¼ ?„Œ?…µ?„‰?…® ???…¨?„‰?…¡?†«/Code Real/Data';
 UserFileLoc='C:\Users\s_dragon0942\Desktop\flex\Data';
 
 
@@ -29,8 +29,6 @@ OriginalData=DataReader(Para,UserFileLoc);
 
 
 
-%% Read Files
-OriginalData.myDataRead();
 
 
 
